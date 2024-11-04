@@ -1,0 +1,16 @@
+SLNo;Age;Salary;Education;Chance to Buy
+1;25;High;Bachelor;Yes
+2;45;Medium;Master;Yes
+3;35;Low;HighSchool;No
+4;50;High;Master;Yes
+5;23;Low;Bachelor;No
+6;32;Medium;HighSchool;No
+7;29;Medium;Bachelor;Yes
+8;39;High;Bachelor;Yes
+9;48;Low;HighSchool;No
+10;28;Medium;Master;Yes
+11;52;High;Bachelor;Yes
+12;22;Low;HighSchool;No
+13;35;High;Bachelor;Yes
+14;47;Medium;Master;Yes
+15;31;Low;HighSchool;No
